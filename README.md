@@ -325,7 +325,7 @@ Langualee
 サブスクリプションはいつでも解約ができるが、解約をしない限り毎月カード決済がおこなわれ課金される。
 
 <!-- ./movies/langualee_subscription.mp4 -->
-<video src="https://github.com/user-attachments/assets/3a9fb8d4-f7f7-4663-a127-38bdcaa53e4a" controls="true"></video>
+<video src="https://github.com/user-attachments/assets/27d98df4-41bb-417e-87ba-1ba4e64e0206" controls="true"></video>
 
 まとめ
 ```
