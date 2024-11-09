@@ -184,22 +184,9 @@ Langualee
 
 #### 語学コースの管理  
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex: 1; margin: 0 10px;">
-    <h5>語学コース一覧</h5>
-    <img src="./images/admin/01_courses/course_list.png" width="240px" style="max-width: 100%; height: auto;" />
-  </div>
-
-  <div style="flex: 1; margin: 0 10px;">
-    <h5>語学コース更新・削除</h5>
-    <img src="./images/admin/01_courses/course_edit_and_delete.png" width="240px" style="max-width: 100%; height: auto;" />
-  </div>
-
-  <div style="flex: 1; margin: 0 10px;">
-    <h5>語学コース登録</h5>
-    <img src="./images/admin/01_courses/course_register.png" width="240px" style="max-width: 100%; height: auto;" />
-  </div>
-</div>
+|語学コース一覧|語学コース更新・削除|語学コース登録|
+|---|---|---|
+|![](./images/admin/01_courses/course_list.png)|![](./images/admin/01_courses/course_edit_and_delete.png)|![](./images/admin/01_courses/course_register.png)|
 
 #### 単位の管理 
 
@@ -298,7 +285,7 @@ Langualee
 初めてログインした時は、コースが選択されていないので、学習ページは見られず、コースの選択画面に飛ばされる。
 
 <!-- ./movies/langualee_select_course.mp4 -->
-<video src="movies/langualee_select_course.mp4" controls="true"></video>
+<video src="https://github.com/user-attachments/assets/afa89cf2-cc2d-4933-8c90-a8106b140ba6" controls="true"></video>
 
 ###### レッスン実行
 
@@ -311,7 +298,7 @@ Langualee
 退出した後、学習の道のりで途中退出したレッスンを見ると、学習進捗が円グラフの状態で確認することができます。
 
 <!-- ./movies/langualee_select_course.mp4 -->
-<video src="movies/langualee_select_course.mp4" controls="true"></video>
+<video src="https://github.com/user-attachments/assets/afa89cf2-cc2d-4933-8c90-a8106b140ba6" controls="true"></video>
 
 ###### XP によるハートの回復
 
