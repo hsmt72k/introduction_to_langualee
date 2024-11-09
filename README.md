@@ -74,13 +74,9 @@ Langualee
 
 #### ランディングページ 
 
-##### 未ログインの場合
-
-<img src="./images/landing_page_before_login.png" width="360px" />
-
-##### ログイン済みの場合
-
-<img src="./images/landing_page_after_login.png" width="360px" />
+|未ログインの場合|ログイン済みの場合 |
+|---|---|
+|<img src="./images/landing_page_before_login.png" width="360px" />|<img src="./images/landing_page_after_login.png" width="360px" />|
 
 ### ログイン関連
 
@@ -91,13 +87,9 @@ Langualee
     ログアウト  
 ```
 
-#### ログインモーダル 
-
-<img src="./images/login_modal.png" width="360px" />
-
-#### アカウント作成モーダル 
-
-<img src="./images/create_account_modal.png" width="360px" />
+|ログインモーダル|アカウント作成モーダル |
+|---|---|
+|<img src="./images/login_modal.png" width="360px" />|<img src="./images/create_account_modal.png" width="360px" />|
 
 #### ログアウト
 
@@ -135,13 +127,9 @@ Langualee
 
 <img src="./images/lesson_page.png" width="360px" />
 
-##### 退出モーダル 
-
-<img src="./images/exit_modal.png" width="240px" />
-
-##### 練習モードモーダル 
-
-<img src="./images/practice_modal.png" width="240px" />
+|退出モーダル|練習モードモーダル |
+|---|---|
+|<img src="./images/exit_modal.png" width="360px" />|<img src="./images/practice_modal.png" width="360px" />|
 
 #### 成績表ページ 
 
@@ -190,104 +178,78 @@ Langualee
 
 #### 単位の管理 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex: 1; margin: 0 10px;">
-    <h5>単位一覧</h5>
-    <img src="./images/admin/02_units/unit_list.png" width="240px" style="max-width: 100%; height: auto;" />
-  </div>
-
-  <div style="flex: 1; margin: 0 10px;">
-    <h5>単位更新・削除</h5>
-    <img src="./images/admin/02_units/unit_edit_and_delete.png" width="240px" style="max-width: 100%; height: auto;" />
-  </div>
-
-  <div style="flex: 1; margin: 0 10px;">
-    <h5>単位更新・削除</h5>
-    <img src="./images/admin/02_units/unit_register.png" width="240px" style="max-width: 100%; height: auto;" />
-  </div>
-</div>
+|単位一覧|単位更新・削除|単位登録|
+|---|---|---|
+|![](./images/admin/02_units/unit_list.png)|![](./images/admin/02_units/unit_edit_and_delete.png)|![](./images/admin/02_units/unit_register.png)|
 
 #### レッスンの管理  
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex: 1; margin: 0 10px;">
-    <h5>単位一覧</h5>
-    <img src="./images/admin/03_lessons/lesson_list.png" width="240px" style="max-width: 100%; height: auto;" />
-  </div>
+|レッスン一覧|レッスン更新・削除|レッスン登録|
+|---|---|---|
+|![](./images/admin/03_lessons/lesson_list.png)|![](./images/admin/03_lessons/lesson_edit_and_delete.png)|![](./images/admin/03_lessons/lesson_register.png)|
 
-  <div style="flex: 1; margin: 0 10px;">
-    <h5>単位更新・削除</h5>
-    <img src="./images/admin/03_lessons/lesson_edit_and_delete.png" width="240px" style="max-width: 100%; height: auto;" />
-  </div>
+#### 出題の管理  
 
-  <div style="flex: 1; margin: 0 10px;">
-    <h5>単位更新・削除</h5>
-    <img src="./images/admin/03_lessons/lesson_register.png" width="240px" style="max-width: 100%; height: auto;" />
-  </div>
-</div>
-
-#### 問題の管理  
-
-##### 問題一覧
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex: 1; margin: 0 10px;">
-    <h5>単位一覧</h5>
-    <img src="./images/admin/04_challenges/challenge_list.png" width="240px" style="max-width: 100%; height: auto;" />
-  </div>
-
-  <div style="flex: 1; margin: 0 10px;">
-    <h5>単位更新・削除</h5>
-    <img src="./images/admin/04_challenges/challenge_edit_and_delete.png" width="240px" style="max-width: 100%; height: auto;" />
-  </div>
-
-  <div style="flex: 1; margin: 0 10px;">
-    <h5>単位更新・削除</h5>
-    <img src="./images/admin/04_challenges/challenge_register.png" width="240px" style="max-width: 100%; height: auto;" />
-  </div>
-</div>
+|出題一覧|出題更新・削除|出題登録|
+|---|---|---|
+|![](./images/admin/04_challenges/challenge_list.png)|![](./images/admin/04_challenges/challenge_edit_and_delete.png)|![](./images/admin/04_challenges/challenge_register.png)|
 
 #### 選択肢の管理 
 
-##### 選択肢一覧
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex: 1; margin: 0 10px;">
-    <h5>単位一覧</h5>
-    <img src="./images/admin/05_challenge_options/challenge_option_list.png" width="240px" style="max-width: 100%; height: auto;" />
-  </div>
-
-  <div style="flex: 1; margin: 0 10px;">
-    <h5>単位更新・削除</h5>
-    <img src="./images/admin/05_challenge_options/challenge_option_edit_and_delete.png" width="240px" style="max-width: 100%; height: auto;" />
-  </div>
-
-  <div style="flex: 1; margin: 0 10px;">
-    <h5>単位更新・削除</h5>
-    <img src="./images/admin/05_challenge_options/challenge_option_register.png" width="240px" style="max-width: 100%; height: auto;" />
-  </div>
-</div>
+|選択肢一覧|選択肢更新・削除|選択肢登録|
+|---|---|---|
+|![](./images/admin/05_challenge_options/challenge_option_list.png)|![](./images/admin/05_challenge_options/challenge_option_edit_and_delete.png)|![](./images/admin/05_challenge_options/challenge_option_register.png)|
 
 ## <a name="example">アプリの利用サンプル</a>
 
-##### Langualee 操作デモ
+### Langualee 操作デモ
 
-###### 基本ルール
+#### 基本ルール
 
-最初に与えられるハートは５、経験値（XP）は０。問題を間違えるとハートが１つ減り、正解すると XP が１０ポイント増える。
+最初に与えられるハートは５、経験値（XP）は０。レッスンで出題される問題に、正解すると XP が１０ポイント増え、間違えるとハートが１つ減る。
 
-ハートは5以上には増えない。
+ショップで XP と交換にハートを回復できるが、ハートは5以上には増えない。
 
-###### コースの選択
+まとめ
+```
+・最初に与えられるポイント：経験値（XP）０、ハート５
+・レッスンでの出題に正解：XP が１０ポイントアップ
+・レッスンでの出題に不正解：ハートが５つ減る
+・ショップで XP と交換にハートを回復することができる
+・ハートは5以上には増えない
+```
+
+#### コースの選択
 
 ログイン、コースの選択、学習ページの確認、ログアウトを行なう。
 
 初めてログインした時は、コースが選択されていないので、学習ページは見られず、コースの選択画面に飛ばされる。
 
+学習したい言語（コース）を選択すると、学習ページに
+
 <!-- ./movies/langualee_select_course.mp4 -->
 <video src="https://github.com/user-attachments/assets/afa89cf2-cc2d-4933-8c90-a8106b140ba6" controls="true"></video>
 
-###### レッスン実行
+まとめ
+```
+・最初にログインすると、学習言語の選択（コース選択）ページに飛ぶ
+・学習ページには学習のみちのりがフローで表示されている
+```
+
+学習の道のりに表示される学習内容の構造（例）は以下の通り：
+```
+単位１（タイトルバー）
+　    　├─✅ レッスン１名詞（クリア済み）
+　    　├─🌟💬 レッスン２動詞（受講中）
+　      └─👑 レッスン３形容詞
+
+単位２（タイトルバー）
+　    　├─🌟 レッスン４慣用句
+　    　├─🌟 レッスン５フレーズ
+　      └─👑 レッスン６文章
+```
+
+#### レッスン実行
 
 表示されている、学習の道のりの１つの丸が１つのレッスンです。
 
@@ -297,18 +259,49 @@ Langualee
 出題中でも、レッスンは途中退出することができ、
 退出した後、学習の道のりで途中退出したレッスンを見ると、学習進捗が円グラフの状態で確認することができます。
 
-<!-- ./movies/langualee_select_course.mp4 -->
-<video src="https://github.com/user-attachments/assets/afa89cf2-cc2d-4933-8c90-a8106b140ba6" controls="true"></video>
+<!-- ./movies/langualee_lesson.mp4 -->
+<video src="https://github.com/user-attachments/assets/9d8552df-88cb-452e-abbb-f0b0b437cd0a" controls="true"></video>
 
-###### XP によるハートの回復
+まとめ
+```
+・学習の道のりに表示されている丸（レッスン）をクリックすると、レッスンが始まる
+・１つのレッスンには複数の出題（チャレンジ）がある
+・レッスンは途中退出することができる
+・途中退出したレッスンを学習ページで見ると、進捗が円グラフ状で表示される
+```
+
+レッスンの構造（例）は以下の通り：
+```
+単位１
+　└─ レッスン１名詞
+        ├─ 出題１：次のうち、どれが「男」ですか？
+        ├─ 出題２：発音している言葉を選択「男」
+        ├─ 出題３：次のうち、どれが「女」ですか？
+        └─ 出題４：次のうち、どれが「男の子」ですか？
+```
+
+#### XP によるハートの回復
 
 出題に対して不正解を続きハートが０になると、出題に回答できなくなります。
 
 しかし、出題を正解して XP のポイントがあると、ハートの回復ができます。XP１０ポイントでハートが最高の５に回復できます。
 
-###### 練習モード
+まとめ
+```
+・学習の道のりに表示されている丸（レッスン）をクリックすると、レッスンが始まる
+・１つのレッスンには複数の出題（チャレンジ）がある
+・レッスンは途中退出することができる
+・途中退出したレッスンを学習ページで見ると、進捗が円グラフ状で表示される
+```
 
-###### 練習モード
+#### 練習モード
+
+一度クリアしたレッスンは、練習モードで復習をすることができます。
+クリアしたレッスンを再実施する際は、必ず練習モードになります。
+
+練習モードでは、不正解になってもハートが減りません。
+
+#### サブスクリプション
 
 ## <a name="outro">🤸 おわりに</a>
 
